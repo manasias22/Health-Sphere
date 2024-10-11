@@ -1,12 +1,10 @@
 
-# Health Assistant
+# Health Sphere
 
-![Health Assistant](![image](https://github.com/user-attachments/assets/5f8bdc59-f082-48f8-a7d2-d676a418a9bf)
-) 
 
 ## Overview
 
-The Health Assistant application is a machine learning-based tool designed to predict the likelihood of diabetes, heart disease, and Parkinson's disease in users. Additionally, it provides exercise suggestions tailored to specific diseases, helping users maintain a healthy lifestyle. This application utilizes Streamlit for an interactive web interface and various machine learning models for predictions.
+The Health Sphere application is a machine learning-based tool designed to predict the likelihood of diabetes, heart disease, and Parkinson's disease in users. Additionally, it provides exercise suggestions tailored to specific diseases, helping users maintain a healthy lifestyle. This application utilizes Streamlit for an interactive web interface and various machine learning models for predictions.
 
 ## Features
 
