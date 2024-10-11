@@ -89,3 +89,39 @@ streamlit run main.py
 - Jitter(%): 0.002
 - Shimmer: 0.05
 - HNR: 20.0
+
+### •	With Diabetes (1):
+o	Mean Pregnancies: 4.79
+
+o	Mean Glucose Level: 155.13
+
+o	Mean Blood Pressure: 76.12
+
+o	Mean Skin Thickness: 29.75
+
+o	Mean Insulin Level: 129.20
+
+o	Mean BMI: 32.60
+
+o	Mean Diabetes Pedigree Function: 0.51
+
+o	Mean Age: 36.42
+###  •	Without Diabetes (0):
+o	Mean Pregnancies: 3.84
+
+o	Mean Glucose Level: 109.14
+
+o	Mean Blood Pressure: 68.14
+
+o	Mean Skin Thickness: 19.54
+
+o	Mean Insulin Level: 62.55
+
+o	Mean BMI: 28.14
+
+o	Mean Diabetes Pedigree Function: 0.37
+
+o	Mean Age: 33.67
+### Conclusion: 
+This analysis helps in understanding how these features differ between individuals with and without diabetes. You can extend the analysis by looking into medians, variances, and visualizations to gain more insights. If you need further assistance or a deeper analysis, feel free to ask!
+
